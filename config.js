@@ -32,6 +32,6 @@ module.exports = {
 //      icon: 'fa-envelope-o',
 //      name: 'Email',
 //      url: 'mailto:anubhav.srivastava00@gmail.com',
-    },
+//   },
   ],
 };
