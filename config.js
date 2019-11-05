@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Aerial', // <title>
+  siteTitle: 'Peter Flodin', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -10,28 +10,28 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Anubhav Srivastava',
-  authorHeading: 'Web Developer - JAMStack - Open Source enthusiast',
+  authorName: 'Peter Flodin',
+  authorHeading: 'Solution Architect - OpenText',
   authorSocialLinks: [
+ //   {
+   //   icon: 'fa-github',
+    //  name: 'Github',
+    //  url: 'https://github.com/anubhavsrivastava',
+  //  },
+ //   {
+ //     icon: 'fa-twitter',
+ //     name: 'Twitter',
+//      url: 'https://twitter.com/onlyanubhav',
+//    },
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/pflodin/',
     },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+//    {
+//      icon: 'fa-envelope-o',
+//      name: 'Email',
+//      url: 'mailto:anubhav.srivastava00@gmail.com',
     },
   ],
 };
