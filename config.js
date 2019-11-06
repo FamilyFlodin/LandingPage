@@ -18,11 +18,11 @@ module.exports = {
     //  name: 'Github',
     //  url: 'https://github.com/anubhavsrivastava',
   //  },
- //   {
- //     icon: 'fa-twitter',
- //     name: 'Twitter',
-//      url: 'https://twitter.com/onlyanubhav',
-//    },
+    {
+      icon: 'fa-twitter',
+      name: 'Twitter',
+      url: 'https://twitter.com/peterflodin',
+    },
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
