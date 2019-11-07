@@ -7,17 +7,17 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: ``, // This path is subpath of your hosting https://domain/portfolio
   // social
 
   authorName: 'Peter Flodin',
   authorHeading: 'Solution Architect - OpenText',
   authorSocialLinks: [
-    {
-      icon: 'fa-amazon',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
+   // {
+   //   icon: 'fa-amazon',
+   //   name: 'Github',
+   //   url: 'https://github.com/anubhavsrivastava',
+  //  },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
