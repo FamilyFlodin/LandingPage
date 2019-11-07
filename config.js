@@ -13,11 +13,11 @@ module.exports = {
   authorName: 'Peter Flodin',
   authorHeading: 'Solution Architect - OpenText',
   authorSocialLinks: [
- //   {
-   //   icon: 'fa-github',
-    //  name: 'Github',
-    //  url: 'https://github.com/anubhavsrivastava',
-  //  },
+    {
+      icon: 'fa-amazon',
+      name: 'Github',
+      url: 'https://github.com/anubhavsrivastava',
+    },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
