@@ -28,10 +28,10 @@ module.exports = {
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/pflodin/',
     },
-//    {
-//      icon: 'fa-envelope-o',
-//      name: 'Email',
-//      url: 'mailto:anubhav.srivastava00@gmail.com',
-//   },
+    {
+      icon: 'fa-bolt',
+      name: 'Solar Generation',
+      url: 'https://www.solarweb.com/Home/GuestLogOn?pvSystemid=334b6fa1-87e9-419f-841d-233a9315ff96 ',
+   },
   ],
 };
