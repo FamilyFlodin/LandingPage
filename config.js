@@ -33,5 +33,10 @@ module.exports = {
       name: 'Solar Generation',
       url: 'https://www.solarweb.com/Home/GuestLogOn?pvSystemid=334b6fa1-87e9-419f-841d-233a9315ff96 ',
    },
+   {
+     icon: 'fa-history',
+     name: 'Internet History',
+     url: 'https://groups.google.com/forum/#!original/rec.humor.funny/h2Aj8Bl4WL4/dt6zQ78RZAQJ',
+   },
   ],
 };
