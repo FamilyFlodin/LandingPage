@@ -11,7 +11,7 @@ module.exports = {
   // social
 
   authorName: 'Peter Flodin',
-  authorHeading: 'Solution Architect - OpenText',
+  authorHeading: 'Solution Architect -- OpenText',
   authorSocialLinks: [
    // {
    //   icon: 'fa-amazon',
@@ -19,6 +19,7 @@ module.exports = {
    //   url: 'https://github.com/anubhavsrivastava',
   //  },
     {
+      title: 'Peters Twitter',
       icon: 'fa-twitter',
       name: 'Twitter',
       url: 'https://twitter.com/peterflodin',
